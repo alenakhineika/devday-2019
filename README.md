@@ -6,4 +6,6 @@ There are plenty of options if you need to translate one language into another (
 
 Let's talk about language compilers and basic principles behind it. It sounds a bit scientific, but it can also be very interesting and probably significantly different from your routine programming tasks.
 
+Check out slides from the talk [here](https://slides.com/alenakhineika/devday-2019).
+
 <img src="https://raw.githubusercontent.com/alenakhineika/devday-2019/master/talk.jpg" alt="Photo from my talk" width="600"/>
