@@ -1,4 +1,4 @@
-# Compiler in JavaScript using ANTLR
+# Compiler in JavaScript using ANTLR v2
 
 [DEV DAY](https://devday.io/), 25.05.2019
 
